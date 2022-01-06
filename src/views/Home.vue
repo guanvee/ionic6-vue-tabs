@@ -3,7 +3,7 @@
         <ion-content style="text-align: center;line-height: 400%;">
             <router-link to="/test">test link</router-link>
             <br/>
-            <router-link to="/tabs/tab1">tab link</router-link>
+            <router-link to="/tabs/tab1?id=5">tab link</router-link>
             <br/>
         </ion-content>
     </ion-page>
